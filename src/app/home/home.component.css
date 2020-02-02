@@ -1,0 +1,7 @@
+.product-card {
+  max-width: 400px;
+  min-height: 400px;
+  margin-top: 40px;
+  float: left;
+  margin-right: 8px;
+}
